@@ -33,10 +33,10 @@ require (
 	github.com/vmware-tanzu/vm-operator/api v1.9.1-0.20260427183048-1a7a2f3398c7 // v1.8.x incompatible with controller-runtime v0.23.3 webhooks API
 	github.com/vmware/go-vmware-nsxt v0.0.0-20230223012718-d31b8a1ca05e
 	github.com/vmware/govmomi v0.53.1
-	github.com/vmware/vsphere-automation-sdk-go/lib v0.8.0
-	github.com/vmware/vsphere-automation-sdk-go/runtime v0.8.0
-	github.com/vmware/vsphere-automation-sdk-go/services/nsxt v0.0.0-20260310075027-d32fca6a7b22
-	github.com/vmware/vsphere-automation-sdk-go/services/nsxt-mp v0.0.0-20260310075027-d32fca6a7b22
+	github.com/vmware/vsphere-automation-sdk-go/lib v0.7.0
+	github.com/vmware/vsphere-automation-sdk-go/runtime v0.7.0
+	github.com/vmware/vsphere-automation-sdk-go/services/nsxt v0.12.1-0.20260412130733-af5333bb09de
+	github.com/vmware/vsphere-automation-sdk-go/services/nsxt-mp v0.6.1-0.20260412130733-af5333bb09de
 	go.openly.dev/pointy v1.3.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/zap v1.27.1
